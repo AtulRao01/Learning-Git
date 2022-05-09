@@ -1,3 +1,11 @@
 Hello welcome to git Learning
 Hakunama Tata
 Timon and Pumba
+
+to ignore a tracked file, first remove it by
+git rm --cached <file name> enter
+
+then add the file in .gitignore 
+run git add . to add modification 
+commit changes 
+and push 
